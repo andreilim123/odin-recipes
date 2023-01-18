@@ -14,9 +14,9 @@ Unfortunately at this time I haven't had the exposure to commands that allows me
 
 Decided to do bold and italics characters for certain texts for visual and accessibility reason.
 
-At this moment, my solution to properly distance each sentence for visual presentation is using <p> separately. Unsure if it would create problems down the line but for this particular simple task it is working as intended.
+At this moment, my solution to properly distance each sentence for visual presentation is using p separately. Unsure if it would create problems down the line but for this particular simple task it is working as intended.
 
-As an experimatation, I put some <p> inside <li> commands and some <p> outside <li>, both seems to work fine but unsure which one is proper if any, at the moment
+As an experimatation, I put some p inside li commands and some p outside li, both seems to work fine but unsure which one is proper if any, at the moment
 
 Turns out the Pad Thai recipe I chose had a lot of ingredients and steps. It even has sauce. Took me longer to finish the Pad Thai.
 
