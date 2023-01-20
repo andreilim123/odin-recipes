@@ -34,4 +34,17 @@ https://christieathome.com/blog/chicken-pad-thai/#recipe
 https://www.allrecipes.com/recipe/228052/chinese-pork-dumplings/
 
 
-Current The Odin Project: Foundation Course progress: 42% Complete 01/17/2022 
+Current The Odin Project: Foundation Course progress: 42% Complete 01/17/2023 
+
+Just finished going through the CSS Foundations Course 01/18/2023
+
+Was going to practice internal CSS method since this is a smaller project but since the TOP's assignment instuctions is to practice external CSS method, I shall do it that way.
+
+Just finished customizing the Odin Recipes project for the first time - 01/19/2023
+Played around a lot with the hover command and href.
+Will now continue on the The Odin Project Foundations.
+
+
+
+
+
